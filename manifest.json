@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-summary-extension",
+    "name": "Obsidian LLM Summary Extension",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Uses a local or remote LLM to rewrite, summarize, or adjust the tone of the selected text.",
+    "author": "Antigravity",
+    "authorUrl": "",
+    "isDesktopOnly": true
+}
